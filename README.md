@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Rama Daniel Oktavianus</h1>
 
 <h3 align="center">
@@ -157,4 +156,3 @@ automation, and digital security systems.
 <p align="center">
   Made with ❤️ by Rama Daniel Oktavianus
 </p>
-```
